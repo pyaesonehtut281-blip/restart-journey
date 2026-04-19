@@ -11,4 +11,4 @@ function greet(name, age) {
     console.log("I am " + name + " and I am " + age + " years old");
 }
 
-greet("Poriseus", 22);
+greet("pyae", 22);
