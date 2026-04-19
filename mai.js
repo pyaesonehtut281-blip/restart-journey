@@ -6,3 +6,9 @@ if (age >= 18) {
 } else {
     console.log(name + " is a minor");
 }
+
+function greet(name, age) {
+    console.log("I am " + name + " and I am " + age + " years old");
+}
+
+greet("Poriseus", 22);
